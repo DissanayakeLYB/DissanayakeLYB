@@ -1,4 +1,3 @@
-# Hi there,
 
 - 👋 Hi, I’m Lasith Dissanayake
 - 👀 I’m interested in Machine Learning and Generative AI.
