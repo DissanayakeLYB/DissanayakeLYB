@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lasith</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Fullstack Web Developer</h3>
+
+</br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dissanayakelyb&label=Profile%20views&color=0e75b6&style=flat" alt="dissanayakelyb" /> </p>
-<p align="center"> 🔭 I’m currently working on a <em>Fullstack Task Management Website.</em> </p>
+<p align="center"> 🔭 I’m currently working on a <b>Fullstack Task Management Website.</b> </p>
 <p align="center"> 👨‍💻 Visit my portfolio <a href="https://lasith.netlify.app" target="_blank">website</a>. </p>
 <p align="center"> 📫 Reach me at <a href="lasithdissanayake.official@gmail.com">lasithdissanayake.official@gmail.com</a></p>
+
+</br>
 
 <h3 align="center"> - Connect with me - </h3>
 <p align="center">
@@ -14,6 +18,8 @@
 <a href="https://www.hackerrank.com/dissanayakelyb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dissanayakelyb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lasithdissanayake99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lasithdissanayake99" height="30" width="40" /></a>
 </p>
+
+</br>
 
 <h3 align="center"> - Programming Languages -</h3>
 <p align="center">
@@ -33,7 +39,7 @@
 </br>
 <h3 align="center"> - AI/ML - </h3>
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
@@ -65,7 +71,7 @@
 </p>
 </br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dissanayakelyb&show_icons=true&locale=en&layout=compact" alt="dissanayakelyb" /></p>
-
+</br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dissanayakelyb&show_icons=true&locale=en" alt="dissanayakelyb" /></p>
-
+</br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dissanayakelyb&" alt="dissanayakelyb" /></p>
