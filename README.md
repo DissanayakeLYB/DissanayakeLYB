@@ -1,10 +1,14 @@
-<h1 align="left">Hi there 🙋‍♂️ </br> I'm Lasith Dissanayake.</h1>
-<h3 align="left">Fullstack Web Developer</h3>
+<h1 align="left">Hi! I'm Lasith .</h1>
+<h3 align="left"> Love to build PRODUCTS and automate boring work.</h3>
 
-- ⭐ Love to build stuff and acquire new skills.
 - 👨‍💻 Visit my [portfolio website](https://lasith.netlify.app).
 - 📫 Reach me at [lasithdissanayake.official@gmail.com](mailto:lasithdissanayake.official@gmail.com) 
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/lasith-dissanayake/).
+
+---
+
+- Interests - Frontend Development, Web Designing, Web Development
+- Languages -  Python, JavaScript
 
 ---
 
