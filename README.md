@@ -1,6 +1,6 @@
 <h1 align="left">Hi! I'm Lasith .</h1>
-<h3 align="left"> Love to build PRODUCTS and automate boring work.</h3>
 
+- ⭐ Love to build PRODUCTS and automate boring work
 - 👨‍💻 Visit my [portfolio website](https://lasith.netlify.app).
 - 📫 Reach me at [lasithdissanayake.official@gmail.com](mailto:lasithdissanayake.official@gmail.com) 
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/lasith-dissanayake/).
