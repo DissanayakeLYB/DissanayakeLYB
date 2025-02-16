@@ -7,7 +7,7 @@
 
 ---
 
-- Interests - Frontend Development, Web Designing, Web Development
+- Interests - Web Development, Mobile App Development
 - Languages -  Python, JavaScript
 
 ---
