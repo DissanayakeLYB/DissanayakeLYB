@@ -8,7 +8,8 @@
 ---
 
 - Interests - Web Development, Mobile App Development
-- Languages -  Python, JavaScript
+- Languages -  HTML, CSS, JavaScript, Python, Kotlin
+- Frameworks & Libraries - Bootstrap, TailwindCSS, NativeWindCSS, ReactJS, React Native, Jetpack Compose
 
 ---
 
