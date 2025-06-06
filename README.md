@@ -1,19 +1,19 @@
-<h1 align="left">Hi! I'm Lasith .</h1>
+# 👋 Hello, I'm Lasith Dissanayake
 
-- ⭐ Love to build PRODUCTS and automate boring work
-- 👨‍💻 Visit my [portfolio website](https://lasith.netlify.app).
-- 📫 Reach me at [lasithdissanayake.official@gmail.com](mailto:lasithdissanayake.official@gmail.com) 
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/lasith-dissanayake/).
+I'm an Associate Software Engineer passionate about building impactful digital solutions and automating routine tasks. My interests span web development, mobile applications, and machine learning.
+
+## 🔧 Technical Proficiencies
+
+- **Languages:** HTML, CSS, JavaScript, Python, Kotlin
+- **Frameworks & Libraries:** ReactJS, React Native, Jetpack Compose
+- **Styling Tools:** Tailwind CSS, Bootstrap
+
+## 🌐 Connect with Me
+
+- **Portfolio:** [lasith.netlify.app](https://lasith.netlify.app)
+- **LinkedIn:** [linkedin.com/in/lasith-dissanayake](https://www.linkedin.com/in/lasith-dissanayake/)
+- **Email:** [lasithdissanayake.official@gmail.com](mailto:lasithdissanayake.official@gmail.com)
 
 ---
 
-
-- Interests - Web Development, Mobile App Development, Machine Learning
-- Languages -  HTML, CSS, JavaScript, Python, Kotlin
-- Frameworks & Libraries - Bootstrap, Tailwind CSS, NativeWind, ReactJS, React Native, Jetpack Compose
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dissanayakelyb&label=Profile%20views&color=0e75b6&style=flat" alt="dissanayakelyb" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=DissanayakeLYB&label=Profile%20views&color=0e75b6&style=flat)
