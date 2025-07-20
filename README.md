@@ -4,8 +4,8 @@ I'm an Associate Software Engineer passionate about building impactful digital s
 
 ## 🔧 Technical Proficiencies
 
-- **Languages:** HTML, CSS, JavaScript, Python, Kotlin
-- **Frameworks & Libraries:** ReactJS, React Native, Jetpack Compose
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python
+- **Frameworks & Libraries:** React, React Native, Next
 - **Styling Tools:** Tailwind CSS, Bootstrap
 
 ## 🌐 Connect with Me
