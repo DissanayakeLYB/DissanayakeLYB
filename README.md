@@ -5,12 +5,12 @@ I'm an Associate Software Engineer passionate about building impactful digital s
 ## 🔧 Technical Proficiencies
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Python
-- **Frameworks & Libraries:** React, React Native, Next
+- **Frameworks & Libraries:** React, React Native, Next.js
 - **Styling Tools:** Tailwind CSS, Bootstrap
 
 ## 🌐 Connect with Me
 
-- **Portfolio:** [lasith.netlify.app](https://lasith.netlify.app)
+- **Portfolio:** [lasith.site](https://lasith.site)
 - **LinkedIn:** [linkedin.com/in/lasith-dissanayake](https://www.linkedin.com/in/lasith-dissanayake/)
 - **Email:** [lasithdissanayake.official@gmail.com](mailto:lasithdissanayake.official@gmail.com)
 
