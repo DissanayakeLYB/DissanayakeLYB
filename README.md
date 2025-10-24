@@ -1,8 +1,11 @@
 # 👋 Hello, I'm Lasith Dissanayake
 
-I'm an Associate Software Engineer passionate about building impactful digital solutions and automating routine tasks. My interests span web development, mobile applications, and machine learning.
+I'm a Materials Science and Engineering graduate, passionate about building digital solutions relating Materials Science and Engineering, with Machine Learning and Simulations.
 
-## 🔧 Technical Proficiencies
+- Practicing **Machine Learning** with **Python**.
+- Have experience in working with **COMSOL**, **SCAPS-1D**, and **LAMMPS**.
+
+## 🔧 D2C (Down-to-Code) 
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Python
 - **Frameworks & Libraries:** React, React Native, Next.js
