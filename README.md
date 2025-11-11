@@ -3,7 +3,6 @@
 I'm a Materials Science and Engineering graduate, passionate about building digital solutions relating to Materials Science and Engineering, with Machine Learning and Simulations.
 
 - Practicing **Machine Learning** with **Python**.
-- Learning **C** and **C++**.
 - Have experience in working with **COMSOL**, **SCAPS-1D**, and **LAMMPS**.
 
 ## 🔧 D2C (Down-to-Code) 
