@@ -1,15 +1,12 @@
 # 👋 Hello, I'm Lasith Dissanayake
 
-I'm a Materials Science and Engineering graduate, passionate about building digital solutions relating to Materials Science and Engineering, with Machine Learning and Simulations.
-
-- Practicing **Machine Learning** with **Python**.
-- Have experience in working with **COMSOL**, **SCAPS-1D**, and **LAMMPS**.
+I'm a FullStack Developer / Software Engineer passionate about building impactful digital solutions and automating routine tasks. My interests span web development and machine learning.
 
 ## 🔧 D2C (Down-to-Code) 
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Python
-- **Frameworks & Libraries:** React, React Native, Next.js
-- **Styling Tools:** Tailwind CSS, Bootstrap
+- **Frameworks & Libraries:** Tailwind CSS, Bootstrap, React, React Native, Next.js
+- **Styling Tools:** GitHub, Figma, Blender
 
 ## 🌐 Connect with Me
 
