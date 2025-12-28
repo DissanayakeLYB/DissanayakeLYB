@@ -4,9 +4,10 @@ I'm a FullStack Developer / Software Engineer passionate about building impactfu
 
 ## 🔧 D2C (Down-to-Code) 
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, Python
-- **Frameworks & Libraries:** Tailwind CSS, Bootstrap, React, React Native, Next.js
-- **Styling Tools:** GitHub, Figma, Blender
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, C#
+- **Frontend:** React, Next.js, React Native, Tailwind CSS, Bootstrap
+- **Backend:** .NET, Node.js, Express.js
+- **Tools & Workflow:** Git, GitHub, Figma, Blender
 
 ## 🌐 Connect with Me
 
