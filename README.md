@@ -2,7 +2,7 @@
 
 Materials Science & Engineering graduate exploring Computational **Materials Science**, **Materials Modeling**, and **Scientific Computing**.
 
-Interested in combining **Python**, **machine learning**, and **low-level programming** to simulate, analyze, and predict material behavior for research and academia.
+Interested in combining **Python**, **Machine Learning**, and **Low-Level Programming** to simulate, analyze, and predict material behavior for research and academia.
 
 ### 🔬 Core Interests 
 
