@@ -1,15 +1,30 @@
 # 👋 Hello, I'm Lasith Dissanayake
 
-I'm a FullStack Developer / Software Engineer passionate about building impactful digital solutions and automating routine tasks. My interests span web development and machine learning.
+Materials Science & Engineering graduate exploring Computational **Materials Science**, **Materials Modeling**, and **Scientific Computing**.
 
-## 🔧 D2C (Down-to-Code) 
+Interested in combining **Python**, **machine learning**, and **low-level programming** to simulate, analyze, and predict material behavior for research and academia.
 
-- **Languages:** C#, JavaScript, TypeScript, Python, HTML, CSS
-- **Frontend:** React, Next.js, React Native, Tailwind CSS, Bootstrap
-- **Backend:** .NET, Node.js, Express.js
-- **Tools & Workflow:** Git, GitHub, Figma, Blender
+### 🔬 Core Interests 
 
-## 🌐 Connect with Me
+- Computational Materials Science
+- Materials Modeling & Simulations
+- Machine Learning for Materials
+- Low-Level Programming (performance-oriented systems)
+- 3D Modeling
+
+### 🧑‍💻 Programming Languages 
+- Python (Scientific Computing, Automation, ML)
+- C / C++ (learning) – Numerical & Performance-Critical Code
+- JavaScript / TypeScript (Tooling & Visualization)
+- C# (Systems & Backend Fundamentals)
+
+### ⚙️ Tools 
+- Git & GitHub
+- Windows + WSL
+- Blender (3D modeling & Visualization)
+- COMSOL (Simulations)
+
+### 🌐 Connect with Me
 
 - **Portfolio:** [lasith.site](https://lasith.site)
 - **LinkedIn:** [linkedin.com/in/lasith-dissanayake](https://www.linkedin.com/in/lasith-dissanayake/)
@@ -18,3 +33,7 @@ I'm a FullStack Developer / Software Engineer passionate about building impactfu
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DissanayakeLYB&label=Profile%20views&color=0e75b6&style=flat)
+
+
+
+
