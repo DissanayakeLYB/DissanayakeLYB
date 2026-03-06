@@ -27,6 +27,7 @@ Interested in combining **Python**, **Machine Learning**, and **Low-Level Progra
 ### 🌐 Connect with Me
 
 - **Portfolio:** [lasith.site](https://lasith.site)
+- **Blog:** [Materialist's Notes](https://materialists-notes.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/lasith-dissanayake](https://www.linkedin.com/in/lasith-dissanayake/)
 - **Email:** [lasithdissanayake.official@gmail.com](mailto:lasithdissanayake.official@gmail.com)
 
