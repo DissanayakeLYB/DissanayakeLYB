@@ -9,7 +9,6 @@ Interested in combining **Python**, **Machine Learning**, and **Materials Modeli
 - Computational Materials Science
 - Materials Modeling & Simulations
 - Machine Learning for Materials (Python for Scientific Computing and Automation)
-- Low-Level Programming (performance-oriented systems)
 - 3D Modeling
 
 ### ⚙️ Tools 
