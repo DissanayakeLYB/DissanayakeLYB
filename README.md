@@ -2,21 +2,15 @@
 
 Materials Science & Engineering graduate exploring Computational **Materials Science**, **Materials Modeling**, and **Scientific Computing**.
 
-Interested in combining **Python**, **Machine Learning**, and **Low-Level Programming** to simulate, analyze, and predict material behavior for research and academia.
+Interested in combining **Python**, **Machine Learning**, and **Materials Modeling** to simulate, analyze, and predict material behavior for research and academia.
 
 ### 🔬 Core Interests 
 
 - Computational Materials Science
 - Materials Modeling & Simulations
-- Machine Learning for Materials
+- Machine Learning for Materials (Python for Scientific Computing and Automation)
 - Low-Level Programming (performance-oriented systems)
 - 3D Modeling
-
-### 🧑‍💻 Programming Languages 
-- Python (Scientific Computing, Automation, ML)
-- C / C++ (learning) – Numerical & Performance-Critical Code
-- JavaScript / TypeScript (Tooling & Visualization)
-- C# (Systems & Backend Fundamentals)
 
 ### ⚙️ Tools 
 - Git & GitHub
@@ -26,7 +20,7 @@ Interested in combining **Python**, **Machine Learning**, and **Low-Level Progra
 
 ### 🌐 Connect with Me
 
-- **Portfolio:** [lasith.site](https://lasith.site)
+- **Portfolio:** [lasith.site](https://lasith-mse.netlify.app)
 - **Blog:** [Materialist's Notes](https://materialists-notes.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/lasith-dissanayake](https://www.linkedin.com/in/lasith-dissanayake/)
 - **Email:** [lasithdissanayake.official@gmail.com](mailto:lasithdissanayake.official@gmail.com)
