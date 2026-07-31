@@ -7,14 +7,14 @@ Interested in combining **Python**, **Machine Learning**, and **Materials Modeli
 ### 🔬 Core Interests 
 
 - Computational Materials Science
-- Materials Modeling & Simulations
+- Materials Modelling & Simulations
 - Machine Learning for Materials (Python for Scientific Computing and Automation)
-- 3D Modeling
+- 3D Modelling
 
 ### ⚙️ Tools 
 - Git & GitHub
-- Windows + WSL
-- Blender (3D modeling & Visualization)
+- Vim & VS Code
+- Blender (3D Modelling & Visualization)
 - COMSOL (Simulations)
 
 ### 🌐 Connect with Me
