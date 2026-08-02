@@ -8,13 +8,9 @@ Interested in combining **Python**, **Machine Learning**, and **Materials Modeli
 
 - Computational Materials Science
 - Materials Modelling & Simulations
-- Machine Learning for Materials (Python for Scientific Computing and Automation)
+- Machine Learning 
+- Python and C++ for Scientific Computing
 - 3D Modelling
-
-### ✍️ Languages Interested
-- Python
-- C++
-- JavaScript and TypeScript
 
 ### ⚙️ Tools 
 - Git & GitHub
