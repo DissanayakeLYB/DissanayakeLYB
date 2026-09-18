@@ -10,12 +10,11 @@ Interested in combining **Python**, **Machine Learning**, and **Materials Modeli
 - Materials Modelling & Simulations
 - Machine Learning 
 - Python, C and C++ for Scientific Computing
-- 3D Modelling
 
 ### ⚙️ Tools 
+- Linux & WSL
 - Git & GitHub
 - Vim & VS Code
-- Blender (3D Modelling & Visualization)
 - COMSOL (Simulations)
 
 ### 🌐 Connect with Me
