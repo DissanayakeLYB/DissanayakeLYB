@@ -9,7 +9,7 @@ Interested in combining **Python**, **Machine Learning**, and **Materials Modeli
 - Computational Materials Science
 - Materials Modelling & Simulations
 - Machine Learning 
-- Python, C and C++ for Scientific Computing
+- Python and C  for Scientific Computing
 
 ### ⚙️ Tools 
 - Linux & WSL
@@ -19,7 +19,6 @@ Interested in combining **Python**, **Machine Learning**, and **Materials Modeli
 
 ### 🌐 Connect with Me
 
-- **Portfolio:** [Portfolio Website](https://lasith-mse.netlify.app)
 - **Blog:** [Materialist's Notes](https://materialists-notes.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/lasith-dissanayake](https://www.linkedin.com/in/lasith-dissanayake/)
 - **Email:** [lasithdissanayake.official@gmail.com](mailto:lasithdissanayake.official@gmail.com)
