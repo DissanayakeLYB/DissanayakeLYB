@@ -9,7 +9,7 @@ Interested in combining **Python**, **Machine Learning**, and **Materials Modeli
 - Computational Materials Science
 - Materials Modelling & Simulations
 - Machine Learning 
-- Python and C  for Scientific Computing
+- Python, C/C++ for Scientific Computing
 
 ### ⚙️ Tools 
 - Linux & WSL
