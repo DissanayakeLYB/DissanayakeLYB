@@ -1,21 +1,13 @@
 # 👋 Hello, I'm Lasith Dissanayake
 
-Materials Science & Engineering graduate exploring Computational **Materials Science**, **Materials Modeling**, and **Scientific Computing**.
-
-Interested in combining **Python**, **Machine Learning**, and **Materials Modeling** to simulate, analyze, and predict material behavior for research and academia.
+Materials Science & Engineering graduate exploring **Biomaterials**, **Computational Materials Science**, **Materials Modeling**, and **Scientific Computing**.
 
 ### 🔬 Core Interests 
 
 - Computational Materials Science
-- Materials Modelling & Simulations
-- Machine Learning 
+- Materials Modelling & Simulations (COMSOL, SolidEdge)
+- Machine Learning
 - Python, C/C++ for Scientific Computing
-
-### ⚙️ Tools 
-- Linux & WSL
-- Git & GitHub
-- Vim & VS Code
-- COMSOL (Simulations)
 
 ### 🌐 Connect with Me
 
