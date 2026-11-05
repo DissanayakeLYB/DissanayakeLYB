@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lasith Dissanayake
 
-Materials Science & Engineering graduate exploring **Biomaterials**, **Computational Materials Science**, **Materials Modeling**, and **Scientific Computing**.
+Materials Science & Engineering graduate exploring **Biomaterials**, **Computational Materials Science** and **Scientific Computing**.
 
 ### 🔬 Core Interests 
 
