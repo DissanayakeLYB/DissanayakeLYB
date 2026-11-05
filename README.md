@@ -1,6 +1,11 @@
-# 👋 Hello, I'm Lasith Dissanayake
+# Hi, Lasith here 👋  
 
-Materials Science & Engineering graduate exploring **Biomaterials**, **Computational Materials Science** and **Scientific Computing**.
+- Materials Science & Engineering graduate exploring **Biomaterials**, **Computational Materials Science** and **Scientific Computing**.
+
+### ▶️ Currently working on
+
+- Reading for my MSc research on Targeted Cancer Therapy (Biomaterials/ Smart Materials)
+- [Bhauthika](https://bhauthika.vercel.app/) - GCE A/L (English medium) MCQ Practice website   
 
 ### 🔬 Core Interests 
 
