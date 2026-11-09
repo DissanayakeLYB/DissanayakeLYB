@@ -5,7 +5,7 @@
 ### ▶️ Currently working on
 
 - Reading for my MSc research on Targeted Cancer Therapy (Biomaterials/ Smart Materials)
-- [Bhauthika](https://bhauthika.vercel.app/) - GCE A/L (English medium) MCQ Practice website   
+- <a href="https://bhauthika.vercel.app">Bhauthika</a> - GCE A/L (English medium) MCQ Practice website   
 
 ### 🔬 Core Interests 
 
